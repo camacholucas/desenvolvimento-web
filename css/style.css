@@ -1,0 +1,18 @@
+body{
+    padding-bottom: 500px;
+}
+
+h3{
+    color: red;
+    font-size: 80px;
+}
+
+ol{
+    color: red;
+}
+
+.paragraph{
+    background-color: black;
+    color: yellowgreen;
+    padding: 5px;
+}

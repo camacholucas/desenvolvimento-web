@@ -1,0 +1,16 @@
+h1{
+    color: brown;
+    border: 1px solid red;
+}
+h2{
+    color: red;
+    border: 1px solid blue;
+}
+h3{
+    color: yellow;
+    border: 1px solid green;
+}
+h4{
+    color: pink;
+    border: 1px solid black;
+}
